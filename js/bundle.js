@@ -12494,7 +12494,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const swiperContainer = new swiper__WEBPACK_IMPORTED_MODULE_0__["default"]('.reviews__list', {
         loop: false,
         direction: 'horizontal',
-        speed: 1500,
+        speed: 2500,
         initialSlide: 0,
         loopFillGroupWithBlank: false,
         pagination: {
