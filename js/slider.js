@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const swiperContainer = new Swiper('.reviews__list', {
         loop: false,
         direction: 'horizontal',
-        speed: 1500,
+        speed: 2500,
         initialSlide: 0,
         loopFillGroupWithBlank: false,
         pagination: {
