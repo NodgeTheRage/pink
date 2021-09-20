@@ -12492,7 +12492,7 @@ __webpack_require__.r(__webpack_exports__);
 swiper__WEBPACK_IMPORTED_MODULE_0__["default"].use([swiper__WEBPACK_IMPORTED_MODULE_0__.Navigation, swiper__WEBPACK_IMPORTED_MODULE_0__.Pagination])
 document.addEventListener('DOMContentLoaded', () => {
     const swiperContainer = new swiper__WEBPACK_IMPORTED_MODULE_0__["default"]('.reviews__list', {
-        loop: true,
+        loop: false,
         direction: 'horizontal',
         speed: 1500,
         initialSlide: 0,

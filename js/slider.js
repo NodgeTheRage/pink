@@ -2,7 +2,7 @@ import Swiper, { Navigation, Pagination } from 'swiper';
 Swiper.use([Navigation, Pagination])
 document.addEventListener('DOMContentLoaded', () => {
     const swiperContainer = new Swiper('.reviews__list', {
-        loop: true,
+        loop: false,
         direction: 'horizontal',
         speed: 1500,
         initialSlide: 0,
