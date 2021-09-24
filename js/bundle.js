@@ -12494,7 +12494,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const swiperContainer = new swiper__WEBPACK_IMPORTED_MODULE_0__["default"]('.reviews__list', {
         loop: false,
         direction: 'horizontal',
-        speed: 2500,
+        speed: 1000,
         initialSlide: 0,
         loopFillGroupWithBlank: false,
         pagination: {
@@ -12509,7 +12509,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const swiperDeals = new swiper__WEBPACK_IMPORTED_MODULE_0__["default"]('.swiper2', {
         loop: false,
         direction: 'horizontal',
-        speed: 2500,
+        speed: 1000,
         initialSlide: 1,
         loopFillGroupWithBlank: false,
         pagination: {
